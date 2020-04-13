@@ -1,0 +1,38 @@
+{
+    "banner" : {
+        "list" : [
+            {
+                "image": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1518685082,4496393&fm=11&gp=0.jpg"
+            },
+            {
+                "image": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1518685082,4496393&fm=11&gp=0.jpg"
+            },
+            {
+                "image": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1518685082,4496393&fm=11&gp=0.jpg"
+            },
+            {
+                "image": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1518685082,4496393&fm=11&gp=0.jpg"
+            }
+        ]
+    },
+    "recommend" : {
+        "list" : [
+            {
+                "image": "http://img3.imgtn.bdimg.com/it/u=1843134341,1339465090&fm=26&gp=0.jpg",
+                "title": "描述信息"
+            },
+            {
+                "image": "http://img3.imgtn.bdimg.com/it/u=1843134341,1339465090&fm=26&gp=0.jpg",
+                "title": "描述信息"
+            },
+            {
+                "image": "http://img3.imgtn.bdimg.com/it/u=1843134341,1339465090&fm=26&gp=0.jpg",
+                "title": "描述信息"
+            },
+            {
+                "image": "http://img3.imgtn.bdimg.com/it/u=1843134341,1339465090&fm=26&gp=0.jpg",
+                "title": "描述信息"
+            }
+        ]
+    }
+}
